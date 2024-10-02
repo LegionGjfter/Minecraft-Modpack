@@ -12,6 +12,7 @@ Zum einfügen des Modpacks kann man meist die .mrpack Datei mit Modrinth starten
 4. Die .mrpack Datei per drag & drop in das Fenster ziehen oder auf "Import from file" drücken und die .mrpack Datei dort auswählen und öffnen.
 
 Dann sollte das Modpack anfangen zu installieren und du kannst nach dem Installationsvorgang das Spiel über Modrinth starten.
+Keybinds müssten im Spiel individuell angepasst werden, wenn sie dir nicht gefallen.
 
 
 
@@ -29,6 +30,7 @@ To add the modpack you can, most of the time, open the .mrpack file with Modrint
 4. Drag & drop the .mrpack file into the new window or click on "Import from file" and select and open the .mrpack file from there.
 
 The modpack should now be downloading and you can start the game, after the download finished, directly from the Modrinth launcher.
+Keybinds should be changed individually, if they're not to your liking.
 
 A few problem fixes:
 If the minecraft instance closes after startup look into the "logs" tab when you click on the modpack. Often it says smth along the lines of "detailed problem description..." somewhere near the top. In there it says which mod caused a problem and a suggestion on how to fix it. Like "mod a needs version 1.2.3 of mod b but only version 1.2.2 is installed"
