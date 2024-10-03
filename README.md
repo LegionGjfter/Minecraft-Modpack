@@ -13,7 +13,7 @@ Zum einfügen des Modpacks kann man meist die .mrpack Datei mit Modrinth starten
 
 Dann sollte das Modpack anfangen zu installieren und du kannst nach dem Installationsvorgang das Spiel über Modrinth starten.
 Keybinds müssten im Spiel individuell angepasst werden, wenn sie dir nicht gefallen.
-
+Beim Start bitte keine Mod updaten auch wenn der prompt dafür kommt. Das Spiel stürzt beim nächsten Start sonst ab.
 
 
 A selfmade modpack with fantasy-, medieval- and technological content with mods like Ice and Fire, Create and Ad Astra. A lot to explor through Aquamirae, Biomes O' Plenty, Goblins & Dungeons and a lot more. Made with the Modrinth Launcher. Download here for free if not already owned: 
@@ -31,6 +31,8 @@ To add the modpack you can, most of the time, open the .mrpack file with Modrint
 
 The modpack should now be downloading and you can start the game, after the download finished, directly from the Modrinth launcher.
 Keybinds should be changed individually, if they're not to your liking.
+Don't update any mods when prompted at startup. The newest version of that mod isn't compatable and the game will crash at startup.
+
 
 A few problem fixes:
 If the minecraft instance closes after startup look into the "logs" tab when you click on the modpack. Often it says smth along the lines of "detailed problem description..." somewhere near the top. In there it says which mod caused a problem and a suggestion on how to fix it. Like "mod a needs version 1.2.3 of mod b but only version 1.2.2 is installed"
